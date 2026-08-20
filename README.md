@@ -22,4 +22,4 @@ Welcome to your team's official codebase for the current development cycle.
 * **Product Manager (PM):** @KaedenFlores
 * **Software Engineer (SE):** @username
 * **Cyber Compliance Analyst (CCA):** @username
-* **QA Tester (QA):** @username
+* **QA Tester (QA):** @lorenzoPerry
